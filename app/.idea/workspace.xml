@@ -8,7 +8,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a07911e2-c4ab-4729-99d8-844f9f8f4951" name="Default Changelist" comment="" />
+    <list default="true" id="a07911e2-c4ab-4729-99d8-844f9f8f4951" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
